@@ -1,0 +1,2 @@
+webpackJsonp([0],{M2YK:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={created:function(){alert("s")}},r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("ssssssssssdddd")])},staticRenderFns:[]};var a=s("VU/8")(n,r,!1,function(e){s("tOaI")},null,null);t.default=a.exports},tOaI:function(e,t){}});
+//# sourceMappingURL=0.97b182c942da1e961e44.js.map
